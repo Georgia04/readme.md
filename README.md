@@ -1,4 +1,4 @@
-### Hi there I am Georgia Gkegka👋
-I am a Computing Student. I practice myself on HTML and JAVA languages. I am currenlty working on creating websites that will meet the needs of our customers. Website design is one of my interests which I would like to pursue professionally in the future, having expanded even more my knowledge in this field.
-
+### Hi there I am Georgia Gkeka👋
+I am a recent graduate in Computer Science, passionate about the intersection of technology, design, and innovation. While I may have just completed my Bachelor's degree, my journey of learning and exploration is in full swing. 
+Currently, I am deeply engaged in self-learning endeavors, with a particular focus on honing my skills in Java programming and UI/UX design.
 
